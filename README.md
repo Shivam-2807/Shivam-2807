@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Shivam-2807
-- 👀 I’m interested in WEB DESIGNING
-- 🌱 I’m currently persuing BCA 3 year from shobhit university, gangoh
+- 🌱 I’m currently persuing MCA 1 year from shobhit university, gangoh
 - 📫 How to reach me = shivamsaini28.07.04@gmail.com
 
 <!---
