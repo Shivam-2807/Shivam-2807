@@ -1,76 +1,60 @@
-<!-- Animated Header -->
+<!-- Header -->
 <h1 align="center">Hi 👋, I'm Shivam</h1>
-<h3 align="center">🚀 MCA Student | Developer | Tech Enthusiast</h3>
+<h3 align="center">💻 MCA Student | Learning & Building Step by Step 🚀</h3>
 
-<!-- Typing Animation -->
+<!-- Simple Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Passionate+Developer;MCA+Student;Learning+New+Technologies;Building+Cool+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=Beginner+Developer;Learning+Everyday;Building+My+Future" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 I’m currently pursuing **MCA (1st Year)** from **Shobhit University, Gangoh**
-- 🌱 I’m learning **Web Development, DSA & AI Tools**
-- 💡 I love building **real-world projects with clean UI**
-- ⚡ Fun fact: *I don’t leave a project until it looks perfect 😄*
+- 🎓 MCA (1st Year) — Shobhit University, Gangoh  
+- 🌱 Currently learning **Web Development & DSA**  
+- 🚀 Trying to build real projects with clean UI  
+- ⚡ I enjoy improving my skills daily  
 
 ---
 
 ## 📬 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="mailto:shivamsaini28.07.04@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="tel:8445177783">
+    <img src="https://img.shields.io/badge/Phone-Call-green?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/shivamsaini2807/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://portfolio.auragaint.com/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=web&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 My Focus
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,git,github,vscode" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivam-2807&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam-2807&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivam-2807&theme=tokyo-night" />
-</p>
-
----
-
-## 🧠 Currently Learning
-
-- Data Structures & Algorithms  
-- Full Stack Development  
-- AI + Automation  
+- 🌐 Learning Frontend & Backend Basics  
+- 📚 Strengthening DSA concepts  
+- 🛠 Building beginner-friendly projects  
 
 ---
 
 ## ✨ Quote
 
-> "Code. Improve. Repeat. 🚀"
+> "Small steps today, big success tomorrow 🚀"
 
 ---
 
-<!-- Footer Animation -->
+<!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:000000&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:000000&height=100&section=footer"/>
 </p>
