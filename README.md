@@ -17,16 +17,15 @@
 - ⚡ I enjoy improving my skills daily  
 
 ---
-
 ## 📬 Connect with Me
 
 <p align="center">
   <a href="mailto:shivamsaini28.07.04@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-Send%20Mail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="tel:8445177783">
-    <img src="https://img.shields.io/badge/Phone-Call-green?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  <a href="https://wa.me/918445177783">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 
   <a href="https://www.linkedin.com/in/shivamsaini2807/">
@@ -34,8 +33,14 @@
   </a>
 
   <a href="https://portfolio.auragaint.com/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=web&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
+</p>
+
+<p align="center">
+  📧 <b>Email:</b> shivamsaini28.07.04@gmail.com <br>
+  📱 <b>Phone:</b> +91 8445177783 <br>
+  🌐 <b>Portfolio:</b> https://portfolio.auragaint.com/
 </p>
 
 ---
