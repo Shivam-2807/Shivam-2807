@@ -39,8 +39,6 @@
 
 <p align="center">
   📧 <b>Email:</b> shivamsaini28.07.04@gmail.com <br>
-  📱 <b>Phone:</b> +91 8445177783 <br>
-  🌐 <b>Portfolio:</b> https://portfolio.auragaint.com/
 </p>
 
 ---
