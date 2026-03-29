@@ -54,7 +54,6 @@
 
 ---
 
-<!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:000000&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,50:0f2027,100:000000&height=120&section=footer&text=Keep%20Coding%20%F0%9F%92%BB&fontColor=00ffcc&fontSize=20&animation=fadeIn"/>
 </p>
