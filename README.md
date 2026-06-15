@@ -35,7 +35,7 @@ const shivam = {
 src="https://github-readme-stats.vercel.app/api?username=Shivam-2807&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img width="49%"
-src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam-2807&theme=tokyonight&hide_border=true"/>
+src="https://streak-stats.demolab.com/?user=Shivam-2807&theme=tokyonight&hide_border=true"/>
 
 </p>
 
