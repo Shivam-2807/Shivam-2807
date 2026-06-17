@@ -1,97 +1,122 @@
-# 🪐 Hello World! I'm Shivam Saini
-
-<div align="center">
-  <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Frontend+Developer;Aspiring+Full+Stack+Developer;React.js+%26+PHP+Enthusiast;Building+Interactive+Web+Experiences" alt="Typing SVG" />
-</div>
-
+<!-- HEADER BANNER ANIMATION -->
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=220&section=header&text=SHIVAM%20SAINI&fontSize=55&fontAlignY=45&animation=twinkling&theme=dark" width="100%" alt="Header Banner" />
+</p>
+
+<!-- DYNAMIC SUBTITLE & SOCIALS -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=Frontend+Developer+%7C+Aspiring+Full+Stack;Building+Interactive+%26+Responsive+UI%2FUX;React.js+%26+PHP+E-Commerce+Expert" alt="Typing Dynamic Subtitle" />
+  
+  <br/>
+
   <a href="https://portfolio.auragaint.com" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Live_Portfolio-auragaint.com-00F2FE?style=for-the-badge" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Live%20Portfolio-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/shivamsaini2807" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
+  <a href="mailto:shivamsaini28.07.04@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
 ---
 
-## 💫 About Me
-I am an **Aspiring Full Stack Developer** with a solid foundation in building responsive, user-centric web applications and managing technical operations. I have a proven track record of optimizing UI/UX, scaling e-commerce platforms, and leveraging modern frameworks to solve real-world problems.
+## ⚡ Executive Summary
 
-- 🎓 **Education:** Pursuing my **Master of Computer Applications (MCA)** at Shobhit University (2025 – 2027).
-- 💼 **Current Role:** Web Developer & Technical Operations Executive at *Teach To India Publication*.
-- 🚀 **Learning Journey:** Deep-diving into **React.js** to complete my transition to Full Stack development.
-- 🛡️ **Bonus Skill:** Certified in **Web Application Penetration Testing** (DCSC).
-
----
-
-## 🛠️ Tech Stack & Toolkit
-
-### 💻 Frontend & Styling
-<p align="left">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-### ⚙️ Backend, CMS & Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce" />
-</p>
-
-### 🔧 Tools & Concepts
-<p align="left">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/REST_APIs-0052CC?style=for-the-badge&logo=scrimba&logoColor=white" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/UI/UX_Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <p>I am a detail-driven <strong>Frontend Developer</strong> specializing in crafting high-conversion e-commerce environments, seamless administrative dashboards, and responsive interfaces. Transitioning actively into Full-Stack workflows by engineering stateful applications with React.</p>
+      <ul>
+        <li>🎓 <strong>MCA Candidate</strong> at Shobhit University (2025 - 2027)</li>
+        <li>💼 <strong>Web Developer & Tech Ops Executive</strong> at Teach To India Publication</li>
+        <li>🛡️ <strong>Security Minded:</strong> DCSC Certified Web Application Penetration Tester</li>
+      </ul>
+    </td>
+    <td width="40%" valign="top" align="center">
+      <!-- Live Metrics Trophy System -->
+      <img src="https://github-profile-trophy.vercel.app/?username=Shivam-2807&theme=tokyonight&column=2&margin-w=10&margin-h=10&no-bg=true" alt="Trophy Shelf" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🚀 Featured Projects
-
-### 🗺️ [Traveler Record Website](https://shivam-2807.github.io/)
-* **Description:** A full-stack travel tracking application featuring interactive map visualizations, color-coded route tracking, and trip-isolated expense management.
-* **Tech Stack:** React.js, Node.js, Express, MongoDB.
-* **Smart Dev:** Engineered with AI-assisted development workflows (OpenAI Codex) to maximize architectural code efficiency.
-
-### 👕 [T-shirt Selling E-commerce](https://tshirt.auragaint.com)
-* **Description:** A custom-coded storefront with comprehensive product listings, dynamic shopping cart logic, secure checkouts, and a dedicated administrative backend.
-* **Tech Stack:** HTML5, CSS3, JavaScript, PHP, MySQL.
-
-### 💼 [Auragaint Projects Platform](https://auragaint.com)
-* **Description:** A fully customized digital marketplace tailored for project sales, implementing rigid theme optimizations, payment gateways, and advanced SEO execution.
-* **Tech Stack:** WordPress, WooCommerce.
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shivam-2807&show_icons=true&theme=tokyonight&count_private=true" alt="Shivam's GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam-2807&theme=tokyonight" alt="Shivam's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-2807&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
-</p>
-
----
-
-## 🤝 Let's Collaborate!
-I'm always open to discussing new development projects, open-source contributions, or full-stack opportunities.
-
-* **📬 Email:** shivamsaini28.07.04@gmail.com
-* **📞 Phone:** +91 8445177783
-* **🌐 Portfolio:** [portfolio.auragaint.com](https://portfolio.auragaint.com)
+## 🛠️ Core Ecosystem & Technologies
 
 <div align="center">
-  <!-- Animated footer wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
+
+  <!-- Frontend Header Shield -->
+  <img src="https://img.shields.io/badge/FRONTEND%20ENGINEERING-00F2FE?style=flat-square" alt="Frontend Section" />
+  <br/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  
+  <br/><br/>
+
+  <!-- Backend & Architecture Shield -->
+  <img src="https://img.shields.io/badge/BACKEND%20%26%20ARCHITECTURE-FF007F?style=flat-square" alt="Backend Section" />
+  <br/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
+
+  <br/><br/>
+
+  <!-- Systems & Industry Frameworks -->
+  <img src="https://img.shields.io/badge/SYSTEMS%20%26%20FRAMEWORKS-39FF14?style=flat-square" alt="Systems Section" />
+  <br/>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-0052CC?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI_UX_Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+
+</div>
+
+---
+
+## 🚀 Architectural Deployments
+
+### 🗺️ [Traveler Record Platform](https://shivam-2807.github.io/)
+> **Full Stack Tracking Hub** — Engineered a scalable mapping application optimized for traveler logging and isolating operational expense data.
+*   **Architecture:** `React.js` • `Node.js` • `Express` • `MongoDB`
+*   **Key Execution:** Implemented algorithmic color-coded route tracking and isolated state tracking per trip. Developed via advanced AI workflows to lower code latency.
+
+### 👕 [Custom E-Commerce Engine](https://tshirt.auragaint.com)
+> **Dynamic Retail System** — A high-performance commercial storefront built from the ground up featuring live state cart manipulation.
+*   **Architecture:** `HTML5` • `CSS3` • `JavaScript` • `PHP` • `MySQL`
+*   **Key Execution:** Programmed a secure end-to-end checkout protocol alongside an asynchronous admin dashboard managing live product arrays and data tracking.
+
+### 💼 [Auragaint Commercial Marketplace](https://auragaint.com)
+> **Production Project Storefront** — Tailored multi-tiered WooCommerce deployment customized completely at the file-structure level.
+*   **Architecture:** `WordPress` • `WooCommerce Engine`
+*   **Key Execution:** Integrated advanced payment gateways, microdata SEO architectures for immediate search engine visibility, and modular plugin overrides.
+
+---
+
+## 📊 Analytics Dashboard
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shivam-2807&show_icons=true&theme=vision-friendly-dark&count_private=true&hide_border=true" alt="Main Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam-2807&theme=vision-friendly-dark&hide_border=true" alt="Streak Count" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-2807&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Language Analytics" />
+</p>
+
+<p align="center">
+  <!-- Dynamic Real-time Contribution Graph Animation Line -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivam-2807&theme=vision-friendly-dark" width="100%" alt="Detailed Breakdown Map" />
+</p>
+
+---
+
+<div align="center">
+  <!-- Interactive Footer Component -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer&theme=dark" width="100%" />
 </div>
