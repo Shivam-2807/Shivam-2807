@@ -64,7 +64,7 @@ I am a detail-driven **Frontend Developer** specializing in crafting seamless e-
 
 ## 🚀 Architectural Deployments
 
-### 🗺️ [Traveler Record Platform]([[https://shivam-2807.github.io/](https://shivam-2807.github.io/Traveler-Record-App/)])
+### 🗺️ [Traveler Record Platform]([[https://shivam-2807.github.io/Traveler-Record-App/]])
 > **Full Stack Tracking Hub** — Dynamic mapping application optimized for traveler logging and trip-isolated expense management.
 *   **Architecture:** `React.js` • `Node.js` • `Express` • `MongoDB`
 *   **Key Execution:** Implemented algorithmic color-coded route tracking and isolated state data per trip. Engineered with modern development tools to maximize UI response efficiency.
