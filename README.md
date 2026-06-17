@@ -28,7 +28,7 @@ I am a detail-driven **Frontend Developer** specializing in crafting seamless e-
 
 *   🎓 **MCA Candidate** at Shobhit University (2025 - 2027)
 *   💼 **Web Developer & Tech Ops Executive** at Teach To India Publication
-*   🛡️ **Security Minded:** DCSC Certified Web Application Penetration Tester
+*   🛡️ **Security Minded:** DCSC Certified Web Application Penetration Testing
 
 ---
 
@@ -82,16 +82,18 @@ I am a detail-driven **Frontend Developer** specializing in crafting seamless e-
 ---
 
 ## 📊 Performance Analytics
+
 <p align="center">
-  <!-- Borderless Dark Stats -->
+  <!-- Borderless Dark Stats (Left Side) -->
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shivam-2807&show_icons=true&theme=tokyonight&hide_border=true&title_color=00B4D8&icon_color=00B4D8&text_color=9cb3c9&bg_color=0a0f1d" alt="Main Stats" />
-  <!-- Borderless Dark Streak -->
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam-2807&theme=tokyonight&hide_border=true&stroke=00B4D8&fire=00B4D8&ring=00B4D8&currStreakLabel=00B4D8&background=0a0f1d&dates=9cb3c9&text=9cb3c9" alt="Streak Count" />
+  
+  <!-- High-Availability Stable Streak Stats (Right Side) -->
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Shivam-2807&theme=tokyonight&hide_border=true&stroke=00B4D8&fire=00B4D8&ring=00B4D8&background=0a0f1d&dates=9cb3c9&text=9cb3c9" alt="Streak Count" />
 </p>
 
 <p align="center">
-  <!-- Language Analytics Matched -->
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-2807&layout=compact&theme=tokyonight&hide_border=true&title_color=00B4D8&text_color=9cb3c9&bg_color=0a0f1d" alt="Language Analytics" />
+  <!-- Resized Language Analytics (Clamped to match clean layout width) -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-2807&layout=compact&theme=tokyonight&hide_border=true&title_color=00B4D8&text_color=9cb3c9&bg_color=0a0f1d&langs_count=4" alt="Language Analytics" />
 </p>
 
 ---
