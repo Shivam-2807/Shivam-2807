@@ -26,3 +26,10 @@ const shivam = {
   ],
   openToWork: true
 };
+</td>
+<td width="40%" valign="top">
+  <h3>🛠️ Tech Stack & Tools</h3>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql,wordpress,git,github&perline=3"/>
+  </p>
+</td>
