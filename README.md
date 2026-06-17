@@ -1,6 +1,6 @@
 <!-- LOW-GLOW MATTE HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=111827&height=100&section=header&text=SHIVAM%20SAINI&fontSize=45&fontAlignY=50&theme=dark" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=111827&height=80&section=header&text=SHIVAM%20SAINI&fontSize=45&fontAlignY=50&theme=dark" width="100%" alt="Header Banner" />
 </p>
 
 <!-- COHESIVE SUBTITLE & MATTE SOCIALS -->
