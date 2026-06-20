@@ -26,11 +26,11 @@
 
 I am a detail-driven **Frontend Developer** passionate about building responsive web applications and engaging user experiences. Currently focused on mastering React.js, contributing to open source, and preparing for frontend development opportunities.
 
-🎓 **MCA Candidate** at Shobhit University (2025 – 2027)
-💻 **Frontend Development**: HTML, CSS, JavaScript, React.js
-🌱 **Currently learning** advanced React, modern frontend workflows, and DSA
-🔍 **Open to internships, collaborations, and frontend development opportunities**
-🛡️ DCSC Certified in Web Application Penetration Testing
+🎓 **MCA Candidate** at Shobhit University (2025 – 2027) <br>
+💻 **Frontend Development**: HTML, CSS, JavaScript, React.js<br>
+🌱 **Currently learning** advanced React, modern frontend workflows, and DSA<br>
+🔍 **Open to internships, collaborations, and frontend development opportunities**<br>
+🛡️ DCSC Certified in Web Application Penetration Testing<br>
 
 ---
 
