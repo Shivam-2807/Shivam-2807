@@ -24,11 +24,13 @@
 
 ## ⚡ Executive Summary
 
-I am a detail-driven **Frontend Developer** specializing in crafting seamless e-commerce environments, interactive user dashboards, and responsive web platforms. Currently mastering **React.js** to build end-to-end full-stack architectures.
+I am a detail-driven **Frontend Developer** passionate about building responsive web applications and engaging user experiences. Currently focused on mastering React.js, contributing to open source, and preparing for frontend development opportunities.
 
-*   🎓 **MCA Candidate** at Shobhit University (2025 - 2027)
-*   💼 **Web Developer & Tech Ops Executive** at Teach To India Publication
-*   🛡️ **Security Minded:** DCSC Certified Web Application Penetration Testing
+🎓 **MCA Candidate** at Shobhit University (2025 – 2027)
+💻 **Frontend Development**: HTML, CSS, JavaScript, React.js
+🌱 **Currently learning** advanced React, modern frontend workflows, and DSA
+🔍 **Open to internships, collaborations, and frontend development opportunities**
+🛡️ DCSC Certified in Web Application Penetration Testing
 
 ---
 
