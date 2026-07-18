@@ -5,7 +5,7 @@
 
 <!-- COHESIVE SUBTITLE & MATTE SOCIALS -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Frontend+Developer+%7C+Aspiring+Full+Stack;React.js+%26+PHP+E-Commerce+Expert;Building+Responsive%2C+High-Performance+Web+UI" alt="Typing Dynamic Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Frontend+Developer+%7C+Full+Stack;React.js+%26+PHP+E-Commerce+Expert;Building+Responsive%2C+High-Performance+Web+UI" alt="Typing Dynamic Subtitle" />
   
   <br/>
 
